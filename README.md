@@ -22,7 +22,7 @@ Este é um projeto desenvolvido com o framework **Laravel**, que permite criar, 
 - PHP 8+
 - Laravel 10+
 - Blade (template engine)
-- Bootstrap 5 (opcional, se estiver usando)
+- Bootstrap 5 
 - MySQL ou outro banco de dados compatível
 - Eloquent ORM
 
@@ -30,4 +30,4 @@ Este é um projeto desenvolvido com o framework **Laravel**, que permite criar, 
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Mattangeelo/Notes.git
